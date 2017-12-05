@@ -1,0 +1,13 @@
+
+1. Zaprojektować bazę danych
+2. Przygotować serwer który będzie zarządał wszystkim
+- nasłuch
+- wykonywanie na bazie zapytań sql
+- przekazywanie wyniku do clienta
+3. Przygotowanie clienta
+
+
+
+
+
+
